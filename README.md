@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Farhan</h1>
-<img align="center" alt="web-developer" width="100%" src="https://media0.giphy.com/media/KGd6ns7MR1gPCRT52z/giphy.gif?cid=ecf05e47x6oxov8mh7kvso62pmurj5n5b5ywer316s2n8dtw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="web-developer" width="100%" src="https://i.gifer.com/TsWA.gif">
 
 - 🌱 I’m currently learning **Bootcamp at Dumbways.id**
 - ⚡ Fun fact **Technology? Han? What the Stupid Think!**
