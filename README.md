@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Farhan</h1>
-<img align="center" alt="web-developer" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wingstechsolutions.com%2Fblog%2Ffeaturing-everything-about-full-stack-development%2F&psig=AOvVaw1vMg9Z4y25UyRDgkOMpyfT&ust=1705380517501000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPCjnNPL3oMDFQAAAAAdAAAAABAD">
+<img align="center" alt="web-developer" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h3 align="justify">A passionate frontend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Bootcamp at Dumbways.id**
